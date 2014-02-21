@@ -23,7 +23,7 @@ curl -X POST http://localhost:2020/rest/render \
 
 
 License: 
-* Apache V2
+* [MIT](http://choosealicense.com/licenses/mit/)
 
 Documentation
 * [IO Specification](https://github.com/okbqa/rendering/wiki/IO-Specification)
